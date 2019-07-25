@@ -1,0 +1,52 @@
+[
+    {
+          "productId": 1,
+          "productName": "Rajma Chawal",
+          "productCode": "GDN-0011",
+          "releaseDate": "March 19, 2016",
+          "description": "Tasty, tasty,yummy ,yummy",
+          "price": 100,
+          "starRating": 5,
+          "imageUrl": "http://www.secondrecipe.com/wp-content/uploads/2017/06/rajma-chawal.jpg"
+        },
+        {
+          "productId": 2,
+          "productName": "Chole Bhature",
+          "productCode": "GDN-0023",
+          "releaseDate": "March 18, 2016",
+          "description": "Yum!",
+          "price": 99,
+          "starRating": 4.2,
+          "imageUrl": "https://www.secondrecipe.com/wp-content/uploads/2016/04/chole1-260x171.jpg"
+        },
+        {
+          "productId": 5,
+          "productName": "Upma",
+          "productCode": "TBX-0048",
+          "releaseDate": "May 21, 2016",
+          "description": "meh",
+          "price": 18,
+          "starRating": 3.01,
+          "imageUrl": "https://www.seriouseats.com/recipes/images/2012/05/20121405-Sooji-Upma-%20Indian-Breakfast.jpg"
+        },
+        {
+          "productId": 8,
+          "productName": "Dal Makhani",
+          "productCode": "TBX-0022",
+          "releaseDate": "May 15, 2016",
+          "description": "WANT!!!!!",
+          "price": 115,
+          "starRating": 5,
+          "imageUrl": "https://www.secondrecipe.com/wp-content/uploads/2017/11/dal-makhni-260x170.jpg"
+        },
+        {
+          "productId": 10,
+          "productName": "Pizza",
+          "productCode": "GMG-0042",
+          "releaseDate": "October 15, 2015",
+          "description": "Doughy Stomach",
+          "price": 355,
+          "starRating": 4.6,
+          "imageUrl": "https://www.secondrecipe.com/wp-content/uploads/2019/07/pizza-2019-364x278.jpg"
+    }
+  ]

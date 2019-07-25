@@ -1,0 +1,21 @@
+{
+  "name": "mable-sample",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "main": "bundles/mable-sample.umd.js",
+  "module": "fesm5/mable-sample.js",
+  "es2015": "fesm2015/mable-sample.js",
+  "esm5": "esm5/mable-sample.js",
+  "esm2015": "esm2015/mable-sample.js",
+  "fesm5": "fesm5/mable-sample.js",
+  "fesm2015": "fesm2015/mable-sample.js",
+  "typings": "mable-sample.d.ts",
+  "metadata": "mable-sample.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
